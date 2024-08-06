@@ -6,4 +6,4 @@
  
  :raised_hands: One of my biggest passions in life is travel, and I love exploring new places and experiencing new cultures. Along with my love for travel, I am also a huge foodie and  enjoy trying out new cuisines from around the world.
 
-:computer: I am very passionate about my work as a software developer and am constantly learning and growing in my field. I take pride in creating beautiful and user-friendly front-end interfaces that enhance the user experience.
+:computer: I am very passionate about my work as a software developer and I am constantly learning and growing in my field. I take pride in creating beautiful and user-friendly front-end interfaces that enhance the user experience.
